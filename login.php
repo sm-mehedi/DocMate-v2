@@ -20,7 +20,7 @@
         <button type="submit">Login</button>
     </form>
 
-    <p>Welcome to DocMate Portal</p>
+    <p>Welcome to DocMate</p>
     <p>Don't have an account? <a href="signup.php">Sign Up</a></p>
 </div>
 
