@@ -6,7 +6,6 @@
 </head>
 <body>
 
-<!-- Background video -->
 <video class="video-bg" autoplay muted loop>
     <source src="./images/5234724-hd_1920_1080_25fps.mp4" type="video/mp4">
     Your browser does not support HTML5 video.
